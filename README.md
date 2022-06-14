@@ -1,2 +1,1 @@
-# urban-goggles
-basic calculator
+# basic calculator
